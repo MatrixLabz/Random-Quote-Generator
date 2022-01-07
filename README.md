@@ -39,7 +39,8 @@ An android application for generating random quotes for learning Room, Jetpack N
 - [JUnit](https://junit.org/junit4/) - a simple framework to write repeatable tests
 - [Espresso](https://developer.android.com/training/testing/espresso) - Android UI tests
 
-### Opensource API for quotes: https://github.com/lukePeavey/quotable#get-random-quote
+### Opensource API for quotes:
+- https://github.com/lukePeavey/quotable#get-random-quote
 
 ## Contact
 
