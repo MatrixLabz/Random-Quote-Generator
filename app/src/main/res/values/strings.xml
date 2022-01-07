@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+    <string name="quote_hint">Click to generate a new quote!</string>
+    <string name="get_quote">Get Quote</string>
+    <string name="fav_quotes_hint">Add quotes as favorite to see them here!</string>
+</resources>
