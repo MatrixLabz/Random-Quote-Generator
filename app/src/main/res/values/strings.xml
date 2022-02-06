@@ -6,4 +6,6 @@
     <string name="quote_hint">Click to generate a new quote!</string>
     <string name="get_quote">Get Quote</string>
     <string name="fav_quotes_hint">Add quotes as favorite to see them here!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
